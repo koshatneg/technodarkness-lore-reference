@@ -1,0 +1,7 @@
+gems:
+  - jekyll-seo-tag
+  - minimal-mistakes-jekyll
+title: Technodarkness Lore Reference
+theme: minimal-mistakes-jekyll
+description: Description
+image: ../images/
