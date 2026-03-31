@@ -1,6 +1,7 @@
-gems:
+plugins:
   - jekyll-seo-tag
+  - jekyll-include-cache
 title: Technodarkness Lore Reference
-theme: minimal-mistakes-jekyll
 description: Description
+remote_theme: "mmistakes/minimal-mistakes@4.28.0"
 image: ../images/
