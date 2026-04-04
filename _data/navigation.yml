@@ -1,0 +1,5 @@
+main:
+  - title: "Флора"
+    url: /pages/flora/
+  - title: "Фауна"
+    url: /pages/fauna/
