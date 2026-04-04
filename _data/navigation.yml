@@ -2,15 +2,15 @@ docs:
   - title: Флора
     children:
       - title: "Виноградная лоза"
-        url: /pages/flora-vine/
+        url: /flora/vine/
 
   - title: Фауна
     children:
       - title: "Манис"
-        url: /pages/fauna-manis/
+        url: /fauna/manis/
       - title: "Мутафаг"
-        url: /pages/fauna-mutaphage/
+        url: /fauna/mutaphage/
       - title: "Панцирный волк"
-        url: /pages/fauna-armored-wolf/
+        url: /fauna/armored-wolf/
       - title: "Ползун"
-        url: /pages/fauna-crawler/
+        url: /fauna/crawler/
