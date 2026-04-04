@@ -1,4 +1,5 @@
 ---
+title: "Мутафаг"
 permalink: /fauna/mutaphage/
 ---
 

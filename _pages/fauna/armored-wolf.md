@@ -1,4 +1,5 @@
 ---
+title: "Панцирный волк"
 permalink: /fauna/armored-wolf/
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Манис
+title: "Манис"
 permalink: /fauna/manis/
 ---
 

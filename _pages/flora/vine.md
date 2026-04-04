@@ -1,4 +1,5 @@
 ---
+title: "Виноградная лоза"
 permalink: /flora/vine/
 ---
 
