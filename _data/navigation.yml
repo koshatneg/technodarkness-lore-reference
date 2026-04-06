@@ -3,6 +3,8 @@ docs:
     children:
       - title: "Виноградная лоза"
         url: /flora/vine/
+      - title: "Другие виды"
+        url: /flora/other-species/
 
   - title: Фауна
     children:
