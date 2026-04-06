@@ -19,3 +19,7 @@ search: false
 .page__content ul {
   font-size: 0.75em;
 }
+
+article.page:not(:has(.page__title)) .page__content {
+  font-size: 0.75em;
+}
