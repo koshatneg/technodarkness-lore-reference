@@ -1,98 +1,23 @@
 docs:
-  - title: Флора
+  - title: Категории
     children:
-      - title: "Виноградная лоза"
-        url: /flora/vine/
-      - title: "Другие виды"
-        url: /flora/other-species/
-
-  - title: Фауна
-    children:
-      - title: "Манис"
-        url: /fauna/manis/
-      - title: "Мутафаг"
-        url: /fauna/mutaphage/
-      - title: "Панцирный волк"
-        url: /fauna/armored-wolf/
-      - title: "Ползун"
-        url: /fauna/crawler/
-
-  - title: Локации
-    children:
-      - title: "Заброшенная лаборатория"
-        url: /locations/abandoned-laboratory/
-      - title: "Заброшенная военная база"
-        url: /locations/abandoned-military-base/
-      - title: "Мир"
-        url: /locations/world/
-      - title: "Некроз"
-        url: /locations/necrosis/
-      - title: "Серая Гарь"
-        url: /locations/gray-soot/
-      - title: "Другие локации"
-        url: /locations/other-locations/
-
-  - title: Предметы
-    children:
-      - title: "Список предметов"
-        url: /items/items-list/
-
-  - title: Еда
-    children:
-      - title: "Список еды"
-        url: /food/food-list/
-
-  - title: Одежда
-    children:
-      - title: "Список одежды"
-        url: /clothes/clothes-list/
-
-  - title: Транспорт
-    children:
-      - title: "Самоход Меха-Корпа"
-        url: /transport/mecha-corp-self-propelled-vehicle/
-      - title: "Мотоциклетка Ордена Чистоты"
-        url: /transport/purity-order-motorcycle/
-      - title: "Тевтонец Ордена Чистоты"
-        url: /transport/purity-order-teutonic/
-
-  - title: Оружие
-    children:
-      - title: "Стрелы"
-        url: /weapons/arrows/
-      - title: "Пороховой самострел"
-        url: /weapons/powder-crossbow/
-      - title: "Другие виды"
-        url: /weapons/other-types/
-
-  - title: Кланы
-    children:
-      - title: "Банды Пустоши"
-        url: /clans/wasteland-gangs/
-      - title: "Кетчеры"
-        url: /clans/ketchers/
-      - title: "Меха-Корп"
-        url: /clans/mecha-corp/
-      - title: "Топливные Короли"
-        url: /clans/fuel-kings/
-      - title: "Гильдия Небоходов"
-        url: /clans/skywalkers-guild/
-      - title: "Орден Чистоты"
-        url: /clans/order-of-purity/
-      - title: "Фермеры"
-        url: /clans/farmers/
-      - title: "Омега"
-        url: /clans/omega/
-
-  - title: Расы
-    children:
-      - title: "Люди"
-        url: /races/humans/
-      - title: "Киборги"
-        url: /races/cyborgs/
-      - title: "Мутанты"
-        url: /races/mutants/
-      - title: "Симбиоты"
-        url: /races/symbiotes/
-      - title: "Доминанты"
-        url: /races/dominants/
+      - title: "Флора"
+        url: /categories/flora/
+      - title: "Фауна"
+        url: /categories/fauna/
+      - title: "Локации"
+        url: /categories/locations/
+      - title: "Кланы"
+        url: /categories/clans/
+      - title: "Расы"
+        url: /categories/races/
+      - title: "Предметы"
+        url: /categories/items/
+      - title: "Одежда"
+        url: /categories/clothes/
+      - title: "Оружие"
+        url: /categories/weapons/
+      - title: "Транспорт"
+        url: /categories/transport/
+      - title: "Еда"
+        url: /categories/food/

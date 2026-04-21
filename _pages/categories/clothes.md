@@ -1,6 +1,6 @@
 ---
-title: "Список одежды"
-permalink: /clothes/clothes-list/
+title: "Одежда"
+permalink: /categories/clothes/
 ---
 
 - Кожаные штаны
