@@ -31,3 +31,8 @@ article.page:not(:has(.page__title)) .page__content {
 .toc .nav__title {
   background: #000;
 }
+
+.toc .active a {
+  background: #000;
+  color: #fff;
+}
