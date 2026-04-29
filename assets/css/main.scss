@@ -16,10 +16,18 @@ search: false
   font-size: 0.75em;
 }
 
+.page__content h2 {
+  font-size: 0.75em;
+}
+
 .page__content ul {
   font-size: 0.75em;
 }
 
 article.page:not(:has(.page__title)) .page__content {
   font-size: 0.75em;
+}
+
+.toc .nav__title {
+  background: #000;
 }
