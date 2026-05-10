@@ -13,11 +13,11 @@ docs:
         url: /categories/races/
       - title: "Предметы"
         url: /categories/items/
-      - title: "Одежда"
+      - title: "Одежда и обувь"
         url: /categories/clothes/
       - title: "Оружие"
         url: /categories/weapons/
       - title: "Транспорт"
         url: /categories/transport/
-      - title: "Еда"
+      - title: "Еда и напитки"
         url: /categories/food/
