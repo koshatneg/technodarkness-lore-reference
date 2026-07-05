@@ -1,6 +1,8 @@
 docs:
   - title: Категории
     children:
+      - title: "Библия проекта"
+        url: /bible/
       - title: "Флора"
         url: /categories/flora/
       - title: "Фауна"
