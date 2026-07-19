@@ -1,6 +1,6 @@
 ---
 title: "Мир Технотьмы"
-permalink: /bible/
+permalink: /categories/bible/
 ---
 
 ## Общее описание мира
